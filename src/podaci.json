@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "ime": "Vojin",
+        "prezime": "Sundovic",
+        "skola": "Drakcici",
+        "bodovi": "56"
+    },
+    {
+        "id": 2,
+        "ime": "Strahinja",
+        "prezime": "Sretovic",
+        "skola": "Ladjevci",
+        "bodovi": "63"
+    },
+    {
+        "id": 3,
+        "ime": "Nikola",
+        "prezime": "Obradovic",
+        "skola": "Vitanovac",
+        "bodovi": "20"
+    },
+    {
+        "id": 4,
+        "ime": "Sara",
+        "prezime": "Spasojevic",
+        "skola": "Zica",
+        "bodovi": "90"
+    },
+    {
+        "id": 5,
+        "ime": "Stefan",
+        "prezime": "Pejkovic",
+        "skola": "Kraljevo",
+        "bodovi": "40"
+    },
+    {
+        "id": 6,
+        "ime": "Mihajlo",
+        "prezime": "Milojevic",
+        "skola": "Ribnica",
+        "bodovi": "100"
+    },
+    {
+        "id": 7,
+        "ime": "Nikola",
+        "prezime": "Milunovic",
+        "skola": "Konarevo",
+        "bodovi": "69"
+    },
+    {
+        "id": 8,
+        "ime": "Vukasin",
+        "prezime": "Riznic",
+        "skola": "Kovaci",
+        "bodovi": "80"
+    },
+    {
+        "id": 9,
+        "ime": "Nikola",
+        "prezime": "Rogonjic",
+        "skola": "Samaila",
+        "bodovi": "98"
+    },
+    {
+        "id": 10,
+        "ime": "Sara",
+        "prezime": "Matovic",
+        "skola": "Grdica",
+        "bodovi": "79"
+    }
+]

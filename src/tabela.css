@@ -1,0 +1,83 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(243, 243, 243);
+}
+
+
+
+.navigacija{
+    background-color: #df4759;
+    
+    height: 100vh;
+}
+.navigacija li a{
+    color:white;
+    font-size: 22px;
+}
+.navigacija li a:hover{
+    color:rgb(235, 235, 235);
+}
+.navigacija ul{
+    margin-top: 40vh;
+}
+
+table{
+    text-align:left;
+}
+
+/*oautoru*/
+.naslov-1{
+    font-size: 64px;
+    font-weight: bold;
+    color:rgb(5, 5, 5);
+}
+.naslov-2{
+    font-size: 24px;
+    font-weight: bold;
+    color:rgb(5, 5, 5);
+
+}
+.oautoru-text{
+    font-size: 22px;
+    text-align: left;
+    margin-left: 0vh;
+}
+.slika{
+    width:60vh;
+    height:50vh;
+}
+.centriran{
+    display:none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.container-c{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.uputstva{
+    text-align: left;
+}
+.boldovano{
+    font-style: bold;
+}
+#slika {
+    z-index: 90;
+}
+#slika-text {
+    display: block !important;
+    opacity: 0;
+    z-index: 100;
+    transition: opacity .2s ease-in;
+    color:black;
+}
+.slika-text-prikaz {
+    opacity: 1 !important;
+}
